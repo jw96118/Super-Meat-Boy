@@ -1,0 +1,9 @@
+﻿  Tool.cpp
+d:\d2d\defaultwindow (2)\tool\resource.h(76): warning C4005: 'IDC_NO': 매크로 재정의
+  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(10083): note: 'IDC_NO'의 이전 정의를 참조하십시오.
+  코드를 생성하고 있습니다...
+  건너뛰고 있습니다... (관련된 변경 내용 없음)
+  ToolView.cpp
+  ToolDoc.cpp
+  Tool.vcxproj -> D:\D2D\DefaultWindow (2)\Debug\Tool.exe
+  Tool.vcxproj -> D:\D2D\DefaultWindow (2)\Debug\Tool.pdb (Partial PDB)

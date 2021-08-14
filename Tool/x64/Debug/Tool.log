@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\users\jiwoo\downloads\smbtest3 (2)\defaultwindow\tool\stdafx.h(66): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
